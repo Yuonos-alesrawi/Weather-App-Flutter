@@ -48,7 +48,7 @@ Before running the application, you need to add your OpenWeatherMap API key:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/Weather-App-Flutter.git
+   git clone https://github.com/Yuonos-alesrawi/Weather-App-Flutter
    ```
 2. **Navigate to project directory:**
    ```bash
